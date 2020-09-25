@@ -2,6 +2,13 @@ body {
     text-align: center;
 }
 
+#button-1:hover,
+#button-2:hover,
+#button-3:hover,
+#button-4:hover {
+    cursor: pointer;
+}
+
 #button-1 {
     background-color: #E74C3C;
     color: white;
