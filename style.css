@@ -16,8 +16,9 @@ body {
 
 #button-1 {
     border: 3px solid #E74C3C;
-    background-color: #E74C3C;
-    color: white;
+    background-color: inherit;
+    font-weight: bold;
+    color: #E74C3C;
     font-size: 2em;
     border-radius: 10px;
     box-sizing: content-box;
@@ -29,6 +30,7 @@ body {
     background-color: #3498DB;
     color: white;
     font-size: 2em;
+    font-weight: bold;
     box-sizing: content-box;
     width: 200px;
     height: 70px;
@@ -39,6 +41,7 @@ body {
     color: white;
     box-sizing: content-box;
     font-size: 2em;
+    font-weight: bold;
     width: 200px;
     height: 70px;
 }
@@ -48,6 +51,7 @@ body {
     color: white;
     box-sizing: content-box;
     font-size: 2em;
+    font-weight: bold;
     width: 200px;
     height: 70px;
 }
