@@ -29,6 +29,8 @@ body {
 
 #button-2 {
     background-color: #3498DB;
+    border: 5px solid #3498DB;
+    border-radius: 10px;
     color: white;
     font-size: 2em;
     font-weight: bold;
