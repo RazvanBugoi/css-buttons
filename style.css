@@ -4,6 +4,7 @@ body {
 
 #button-1 {
     background-color: #E74C3C;
+    font-size: 2em;
     box-sizing: content-box;
     width: 200px;
     height: 70px;
@@ -11,6 +12,7 @@ body {
 
 #button-2 {
     background-color: #3498DB;
+    font-size: 2em;
     box-sizing: content-box;
     width: 200px;
     height: 70px;
@@ -19,6 +21,7 @@ body {
 #button-3 {
     background-color: #F39C12;
     box-sizing: content-box;
+    font-size: 2em;
     width: 200px;
     height: 70px;
 }
@@ -26,6 +29,7 @@ body {
 #button-4 {
     background-color: #D35400;
     box-sizing: content-box;
+    font-size: 2em;
     width: 200px;
     height: 70px;
 }
