@@ -1,5 +1,6 @@
 body {
     text-align: center;
+    background-color: slategrey;
 }
 
 #button-1:hover,
@@ -7,6 +8,10 @@ body {
 #button-3:hover,
 #button-4:hover {
     cursor: pointer;
+}
+
+#button-1:hover {
+    background-color: transparent;
 }
 
 #button-1 {
