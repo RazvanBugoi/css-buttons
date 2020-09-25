@@ -1,3 +1,19 @@
 body {
     text-align: center;
 }
+
+#button-1 {
+    background-color: #E74C3C;
+}
+
+#button-2 {
+    background-color: #3498DB;
+}
+
+#button-3 {
+    background-color: #F39C12;
+}
+
+#button-4 {
+    background-color: #D35400;
+}
