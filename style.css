@@ -4,16 +4,20 @@ body {
 
 #button-1 {
     background-color: #E74C3C;
+    box-sizing: content-box;
 }
 
 #button-2 {
     background-color: #3498DB;
+    box-sizing: content-box;
 }
 
 #button-3 {
     background-color: #F39C12;
+    box-sizing: content-box;
 }
 
 #button-4 {
     background-color: #D35400;
+    box-sizing: content-box;
 }
