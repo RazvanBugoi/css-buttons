@@ -22,10 +22,11 @@ h1 {
 
 #button-2:hover {
     background-color: inherit;
+    box-shadow: 0 0 10px 0 #3498DB inset, 0 0 10px 14px #3498DB;
 }
 
 #button-3:hover::after {
-    content: '  >>';
+    content: '  ››';
 }
 
 #button-1 {
