@@ -43,6 +43,7 @@ h1 {
 }
 
 #button-1 {
+    margin: 20px;
     border: 5px solid #E74C3C;
     background-color: inherit;
     font-weight: bold;
@@ -56,6 +57,7 @@ h1 {
 }
 
 #button-2 {
+    margin: 20px;
     background-color: #3498DB;
     border: 5px solid #3498DB;
     border-radius: 10px;
@@ -68,6 +70,7 @@ h1 {
 }
 
 #button-3 {
+    margin: 20px;
     background-color: #F39C12;
     border: none;
     color: white;
@@ -79,6 +82,7 @@ h1 {
 }
 
 #button-4 {
+    margin: 20px;
     background-color: #D35400;
     border: none;
     color: white;
